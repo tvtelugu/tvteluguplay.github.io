@@ -1,0 +1,30 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?id=842
+#EXTINF:-1 tvg-id="842" tvg-logo="https://tatalogo.pages.dev/842.png" group-title="Spiritual",Somnath Temple
+https://delta45tatasky.akamaized.net/out/i/722.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?id=641
+#EXTINF:-1 tvg-id="641" tvg-logo="https://tatalogo.pages.dev/641.png" group-title="Lifestyle",Tata Play Cooking
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?id=618
+#EXTINF:-1 tvg-id="618" tvg-logo="https://tatalogo.pages.dev/618.png" group-title="Lifestyle",Tata Play Beauty
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?id=22
+#EXTINF:-1 tvg-id="22" tvg-logo="https://tatalogo.pages.dev/22.png" group-title="Lifestyle",News World India
+https://delta31tatasky.akamaized.net/out/i/57073.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?id=8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://tatalogo.pages.dev/8.png" group-title="Entertainment",STAR Plus HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
